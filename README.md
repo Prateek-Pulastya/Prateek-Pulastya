@@ -109,7 +109,7 @@ validation harnesses.
 | Certified LLM Security Professional (CLLMSP) | Red Team Leaders | Jun 2026 |
 | Fortinet Certified Associate in Cybersecurity | Fortinet | Oct 2025 → Oct 2027 |
 | OCI 2025 Certified AI Foundations Associate | Oracle | Aug 2025 |
-| Certified Network Security Specialist (CNSS) | ICSI | — |
+| Certified Network Security Specialist (CNSS) | ICSI, UK | Jul 2020 |
 
 ---
 
