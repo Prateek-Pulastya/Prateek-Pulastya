@@ -1,42 +1,124 @@
-# 💫 About Me:
-🔭 I’m currently working on Cybersecurity projects integrated with AI and Machine Learning<br><br>👯 I’m looking to collaborate on Python projects, AI, Cybersecurity<br><br>🤝 I’m looking for help with AI and Machine Learning<br><br>🌱 I’m currently learning Basics of AI and Machine Learning<br><br>💬 Ask me about everything<br><br>⚡ Fun fact I can switch from analyzing network packets to binge-watching anime without missing a beat—cybersecurity by day, anime analyst by night!
+<h1>Prateek Pulastya</h1>
 
+<p><strong>Security Engineer — AI Security &amp; Application Security</strong><br>
+Berlin, Germany · Open to security engineering roles (EU)</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prateekpulastya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prateek-pulastya22/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@prateekpulastya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateekpulastya220@gmail.com) 
+<p>
+<a href="https://prateek-pulastya.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=githubpages&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prateek-pulastya22/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://medium.com/@prateekpulastya"><img alt="Medium" src="https://img.shields.io/badge/Write--ups-12100E?style=flat-square&logo=medium&logoColor=white"></a>
+<a href="mailto:prateekpulastya220@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=flat&logo=Uber&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prateek-Pulastya&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prateek-Pulastya&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-Pulastya&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build and break the security layer around LLM applications. Most of my time goes to
+prompt-injection defence, API and application security testing, and turning findings into
+tooling that survives contact with production traffic.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prateek-Pulastya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prateek-Pulastya&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+Currently an independent security researcher (private bug bounty and coordinated
+disclosure), finishing an **MSc in Artificial Intelligence** in Berlin, after an
+**MSc in Cyber Security** and four years across penetration testing and security
+engineering.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prateek-Pulastya&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GuardRail-as-a-Service
 
-<!--
-**Prateek-Pulastya/Prateek-Pulastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Two-tier prompt-injection detection for production LLM serving. Sub-millisecond on the
+common path, evaluated against four external benchmarks.
 
-Here are some ideas to get you started:
+**[→ Guardrail-As-A-Service-V2](https://github.com/Prateek-Pulastya/Guardrail-As-A-Service-V2)** · Python · Docker · ONNX · Prometheus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Evaluation | Tier 1 recall | FPR |
+|---|---|---|
+| In-house corpus (in-sample) | 1.000 | 0.000 |
+| **Held-out split — the honest number** | **0.7895** | 0.000 |
+| Open-Prompt-Injection (`source="data"`) | 1.000 | 0.006 |
+| BIPIA (`source="data"`) | 0.480 | 0.017 |
+| NotInject (over-defense, benign only) | — | 0.000 |
+
+> The headline result is not the 1.000. It is the **21-point gap** between the in-sample
+> score and the held-out one. Tier 1's blocklist was tuned by inspecting the attacks it
+> missed *on that corpus*, so the perfect score is partly memorisation — the repo says so,
+> quantifies it, and ships the split script that proves it.
+
+Design decisions I can defend in an interview:
+
+- **Tier 1** — Aho-Corasick + regex over normalised text, scanned twice: once preserving
+  structural markers (`<|im_start|>`, `safety_mode=off`), once de-obfuscated to catch
+  `1gn0r3 prev10us 1nstruct10ns`. p50 **0.14 ms**.
+- **Tier 2 is monitor-only, deliberately.** DeBERTa-v3 ONNX scores and logs but does not
+  block, because on NotInject it rejects **40.4% of benign prompts** against Tier 1's 0.0%,
+  and the over-defense is not threshold-separable. The cost is a recall ceiling. Both
+  operating points are published.
+- **Fail-open.** If the Tier 2 model errors, the request is allowed. Availability over
+  semantic coverage, stated rather than defaulted into.
+- A content-safety baseline (Llama-Guard-3-8B) misses 165/190 attacks here — reported as
+  *"content-safety guardrails don't transfer to prompt injection"*, **not** as a 7× win.
+
+---
+
+## Vulnerability research
+
+Private bug bounty and coordinated disclosure. Statuses are reported as they resolved —
+duplicates and informatives included.
+
+| Finding | Class | Impact | Status |
+|---|---|---|---|
+| Python sandbox escape in `smolagents` | CWE-94 · **CVSS 9.9** | Arbitrary host command execution | Disclosed via huntr |
+| Path-traversal detection bypass, Aikido `firewall-java` | Security-control bypass | Defeats WAF path-traversal detection | Disclosed via Intigriti |
+| Unauthenticated GraphQL bulk pagination | API1 / API4 | **57.3M** user records enumerable, no rate limit | Duplicate (confirmed valid) |
+| Unrestricted Google Maps API keys in page source | CWE-798 | ~$121/hr billable abuse, measured | Duplicate / P4 |
+| CORS origin reflection + `credentials: true` | CWE-942 | Full account takeover via one link | Duplicate |
+| Dangling Route53 NS delegation | Subdomain takeover | HTTPS phishing + session-cookie theft | Informative |
+
+**🥇 #1 Quarterly Leaderboard** (RO07 Ch13f) and **Top 10 Quarterly** (Bug Baron) on Intigriti.
+
+Tooling: Burp Suite Pro · Semgrep · libFuzzer / CI Fuzz · custom Python recon and
+validation harnesses.
+
+---
+
+## Other work
+
+| Project | What it does |
+|---|---|
+| [AI-Powered Threat Detection](https://github.com/Prateek-Pulastya/AI-Powered-Threat-Detection-System-with-Explainability) | Network IDS on CICIDS2017 across 6 attack classes, with SHAP explanations so analysts get *why*, not just a label |
+| [Hydroficient IoT Externship](https://github.com/Prateek-Pulastya/Hydroficient-Externship) | STRIDE-modelled MQTT pipeline hardened with TLS 1.3/mTLS, HMAC-SHA256, replay defence — validated by live attack simulation per layer. *Top Performer, top 10%* |
+| [Outamation Externship](https://github.com/Prateek-Pulastya/Outamation-Externship) | Document-intelligence pipeline over 200+ page mortgage blobs — OCR, LlamaIndex RAG, open-source LLM evaluation |
+
+---
+
+## Toolchain
+
+**AI / LLM security** — prompt injection · RAG security · OWASP LLM Top 10 · NIST AI RMF · garak · ONNX Runtime · PyTorch · Transformers · SHAP
+
+**Offensive** — Burp Suite Pro · Nmap · Nessus · Semgrep · libFuzzer / CI Fuzz · threat modelling (STRIDE)
+
+**Detection & response** — Microsoft Sentinel · Defender for Endpoint · Splunk · Prometheus · Grafana
+
+**Cloud & platform** — AWS · Azure · OCI · Terraform · Docker · GitHub Actions
+
+**Languages** — Python · Bash · PowerShell · SQL
+
+---
+
+## Certifications
+
+| Credential | Issuer | Date |
+|---|---|---|
+| Certified LLM Security Professional (CLLMSP) | Red Team Leaders | Jun 2026 |
+| Fortinet Certified Associate in Cybersecurity | Fortinet | Oct 2025 → Oct 2027 |
+| OCI 2025 Certified AI Foundations Associate | Oracle | Aug 2025 |
+| Certified Network Security Specialist (CNSS) | ICSI | — |
+
+---
+
+## Writing
+
+Long-form technical write-ups on [Medium](https://medium.com/@prateekpulastya) — bug bounty
+methodology, CTF chains, and the reasoning behind findings, including the ones that came
+back as duplicates.
+
+---
+
+<sub>English (professional) · German (A2, improving) · Spanish (elementary)</sub>
