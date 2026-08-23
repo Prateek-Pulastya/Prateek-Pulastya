@@ -16,8 +16,8 @@ tooling that survives contact with production traffic.
 
 Currently an independent security researcher (private bug bounty and coordinated
 disclosure), finishing an **MSc in Artificial Intelligence** in Berlin, after an
-**MSc in Cyber Security** and four years across penetration testing and security
-engineering.
+**MSc in Cyber Security** and security roles since 2020 spanning penetration
+testing, application security, and vulnerability research.
 
 ---
 
