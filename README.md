@@ -29,7 +29,7 @@ that survives contact with production traffic.</p>
 
 </td>
 <td width="34%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/78462354?v=4" width="190" alt="Prateek Pulastya">
+<img src="assets/headshot-round.png" width="200" alt="Prateek Pulastya">
 </td>
 </tr>
 </table>
